@@ -4,13 +4,13 @@
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<meta name="description" content="List of all the unstyled templates made by Bootstrapbase.com">
+<meta name="description" content="">
 <meta name="author" content="BootstrapBase">
 <meta name="google-site-verification" content="hq9-_keIZdTZt7arZ91T-gSqn8ANii362mlcn0zCgno" />
 
 <title>
   
-    List of all the unstyled templates from Bootstrapbase.com - BootstrapBase
+     - BootstrapBase
   
 </title>
 
@@ -19,7 +19,7 @@
 <link rel="publisher" href="https://plus.google.com/+BootstrapBase">
 
 <!-- Canonical -->
-<link rel="canonical" href="http://BootstrapBase.com/template-categories/unstyled/">
+<link rel="canonical" href="http://BootstrapBase.com/pixels-to-inches-calculator/">
 
 <!-- Fav Icon and Apple Touch Icons -->
 <link rel="apple-touch-icon-precomposed" sizes="57x57" href="http://sbootstrap.BootstrapBasec.netdna-cdn.com/assets/img/ico/apple-touch-icon-57x57.png" />
@@ -45,12 +45,12 @@
 
 
 <!-- Open Graph -->
-<meta property="og:title" content="List of all the unstyled templates from Bootstrapbase.com">
+<meta property="og:title" content="">
 <meta property="og:site_name" content="BootstrapBase">
 <meta property="og:type" content="website">
-<meta property="og:description" content="List of all the unstyled templates made by Bootstrapbase.com">
+<meta property="og:description" content="">
 <meta property="og:image" content="http://BootstrapBase.com/assets/img/og/BootstrapBase-logo.jpg">
-<meta property="og:url" content="http://BootstrapBase.com/template-categories/unstyled/">
+<meta property="og:url" content="http://BootstrapBase.com/pixels-to-inches-calculator/">
 
 <!-- Fonts -->
 <link href="http://fonts.googleapis.com/css?family=Montserrat:400,700" rel="stylesheet" type="text/css">
@@ -181,8 +181,8 @@
     <div class="container">
         <div class="row">
             <div class="col-md-8">
-                <h1>Unstyled Templates</h1>
-                <p>List of unstyled templates</p>
+                <h1>Pixels to Inches Calculator</h1>
+                <p></p>
             </div>
             <div class="col-md-4">
                 <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
@@ -203,118 +203,51 @@
 <div class="container">
 	<ol class="breadcrumb">
 		<li><a href="/index.html">BootstrapBase Home</a></li>
-		<li class="active">Unstyled Templates</li>
+		<li class="active">Pixels to Inches Calculator</li>
 	</ol>
 </div>
-<div class="container">
-	<div class="row previews">
-		
-		<div class="col-lg-4 col-sm-6">
-			<div class="thumbnail">
-				<a href="/template-overviews/starter" class="post-image-link">
-					<p><img src="/img/starter.jpg" class="img-responsive" alt="Starter Bootstrap Layout" /></p>
+  <div class="container">
 
-				</a>
-				<div class="caption text-center">
-					<h3>Starter</h3>
-					<p>This starter template has all the css, jquery and js files from maxcdn.</p>
-					<a href="/template-overviews/starter" class="btn btn-default">Preview &amp; Download</a>
-				</div>
-			</div>
-		</div>	  
-		
-		<div class="col-lg-4 col-sm-6">
-			<div class="thumbnail">
-				<a href="/template-overviews/complex-nav-starter" class="post-image-link">
-					<p><img src="/img/complex-nav-starter.jpg" class="img-responsive" alt="Complex Nav Starter Bootstrap Layout" /></p>
+    <div class="row">
+      <p class="lead">To use the calculator, please first choose the DPI value. After that, type into the "Enter px value" field to get the pixels converted to inches. To reset the form, press the "enter" key.</p>
+    </div>
+    <div class="row">
+      <form class="form-inline">
+      <div class="input-group">
+        <input id="inPixels" class="form-control input-lg" type="number" placeholder="Enter px value" >
+        <div class="input-group-addon">px</div>
+      </div>
+      <div class="form-group input-normal text-center"> at </div>
+        <div class="form-group">
+          <select class="form-control input-lg" id="getDPI">
+            <option value="Please Choose DPI" selected="selected">Choose DPI value</option>
+            <option value="60">60 DPI</option>
+            <option value="75">75 DPI</option>
+            <option value="96">96 DPI</option>
+            <option value="120">120 DPI</option>
+            <option value="150">150 DPI</option>
+            <option value="200">200 DPI</option>
+            <option value="300">300 DPI</option>
+            <option value="600">600 DPI</option>
+          </select>
+        </div>
 
-				</a>
-				<div class="caption text-center">
-					<h3>Complex Nav Starter</h3>
-					<p>This starter template is a great beginning for complex navs.</p>
-					<a href="/template-overviews/complex-nav-starter" class="btn btn-default">Preview &amp; Download</a>
-				</div>
-			</div>
-		</div>	  
-		
-		<div class="col-lg-4 col-sm-6">
-			<div class="thumbnail">
-				<a href="/template-overviews/minimalist-blog" class="post-image-link">
-					<p><img src="/img/minimalist-blog.jpg" class="img-responsive" alt="Minimalist Blog, a starter layout for Bootstrap" /></p>
+      <div class="form-group">
+        <div id="displayInches">
+          
+        </div>
+      </div>
 
-				</a>
-				<div class="caption text-center">
-					<h3>Minimalist Blog</h3>
-					<p>Develop your blog faster with this minimalist blog starter theme.</p>
-					<a href="/template-overviews/minimalist-blog" class="btn btn-default">Preview &amp; Download</a>
-				</div>
-			</div>
-		</div>	  
-		
-		<div class="col-lg-4 col-sm-6">
-			<div class="thumbnail">
-				<a href="/template-overviews/carousel-news" class="post-image-link">
-					<p><img src="/img/carousel-news.jpg" class="img-responsive" alt="Carousel News, a starter layout for Bootstrap" /></p>
+      </form>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    </div>
+  </div>
+    
 
-				</a>
-				<div class="caption text-center">
-					<h3>Carousel News</h3>
-					<p>Develop your news site faster with this starter theme.</p>
-					<a href="/template-overviews/carousel-news" class="btn btn-default">Preview &amp; Download</a>
-				</div>
-			</div>
-		</div>	  
-		
-		<div class="col-lg-4 col-sm-6">
-			<div class="thumbnail">
-				<a href="/template-overviews/blog-with-sidebar" class="post-image-link">
-					<p><img src="/img/blog-with-sidebar.jpg" class="img-responsive" alt="Blog With Sidebar, Starter Layout for Bootstrap" /></p>
-
-				</a>
-				<div class="caption text-center">
-					<h3>Blog With Sidebar</h3>
-					<p>Develop your blog faster with this blog with sidebar starter theme.</p>
-					<a href="/template-overviews/blog-with-sidebar" class="btn btn-default">Preview &amp; Download</a>
-				</div>
-			</div>
-		</div>	  
-		
-		<div class="col-lg-4 col-sm-6">
-			<div class="thumbnail">
-				<a href="/template-overviews/our-simple-blog" class="post-image-link">
-					<p><img src="/img/our-simple-blog.jpg" class="img-responsive" alt="Our Blog Starter Theme" /></p>
-
-				</a>
-				<div class="caption text-center">
-					<h3>Our Simple Blog</h3>
-					<p>Develop your blog faster with this blog starter theme.</p>
-					<a href="/template-overviews/our-simple-blog" class="btn btn-default">Preview &amp; Download</a>
-				</div>
-			</div>
-		</div>	  
-		
-		<div class="col-lg-4 col-sm-6">
-			<div class="thumbnail">
-				<a href="/template-overviews/my-portfolio" class="post-image-link">
-					<p><img src="/img/my-portfolio.jpg" class="img-responsive" alt="My Portfolio Starter Bootstrap Layout" /></p>
-
-				</a>
-				<div class="caption text-center">
-					<h3>My Portfolio</h3>
-					<p>Lower your design time using this starter portfolio layout for creatives.</p>
-					<a href="/template-overviews/my-portfolio" class="btn btn-default">Preview &amp; Download</a>
-				</div>
-			</div>
-		</div>	  
-		
-	</div>
-	<div class="row">
-		<div class="text-center">
-			<a href="/template-categories/all" class="btn btn-default btn-lg">See all bootstrap templates</a>
-			<br><br><br>
-		</div><!-- see all templates button -->
-	</div><!-- see all templates row -->
-</div>
 
 <!-- Footer -->
 <div class="cta-mail">
