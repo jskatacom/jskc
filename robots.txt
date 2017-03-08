@@ -1,0 +1,3 @@
+User-agent: *
+
+Sitemap: http://layoutschool.com/sitemap.xml

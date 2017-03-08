@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+{% include head.html %}
+
+<!-- Webmaster Tools Site Verification -->
+<!-- <meta name="google-site-verification" content="hq9-_keIZdTZt7arZ91T-gSqn8ANii362mlcn0zCgno"> -->
+</head>
+
+<body>
+<!-- Navigation -->
+{% include nav.html %}
+
+<header class="marquee">
+    <div class="container">
+        <span class="brand-name">LayoutSchool</span>
+        <h1>Step-by-step courses on front-end development </h1>
+        <p>Created and Maintained by <a href="https://www.skillshare.com/ajdinimsirovic" target="_blank">Ajdin Imsirovic</a>, an online instructor</a>
+        </p>
+        <div id="social">
+
+        </div>
+        <a href="/template-categories/all" class="btn btn-default btn-cta"><i class="fa fa-chevron-circle-right"></i> Browse Courses</a>
+        <div class="sponsor">
+            <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+            <!-- layoutschool1 -->
+            <ins class="adsbygoogle"
+                 style="display:inline-block;width:300px;height:250px"
+                 data-ad-client="ca-pub-5779404885491678"
+                 data-ad-slot="2124111534"></ins>
+            <script>
+            (adsbygoogle = window.adsbygoogle || []).push({});
+            </script>
+        </div>
+    </div>
+</header>
+
+<!-- Page Content -->
+{{ content }}
+
+<!-- Footer -->
+{% include footer.html %}
+
+<!-- JavaScript -->
+{% include javascript.html %}
+
+</body>
+
+</html>

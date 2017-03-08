@@ -1,0 +1,29 @@
+---
+layout: page
+title: Courses on Productivity
+description: "A collection of courses on Productivity."
+meta-title: "A collection of courses on Productivity Meta Title"
+meta-description: "A collection of courses on Productivity Meta Description."
+redirect_from:
+  - /productivity-templates/
+  - /productivity-templates.php/
+---
+
+<div class="container">
+	<div class="row previews">
+		{% for post in site.categories.productivity %}
+		<div class="col-lg-4 col-sm-6">
+			<div class="thumbnail">
+				<a href="{{ post.source }}" class="post-image-link">
+					{{ post.content }}
+				</a>
+				<div class="caption">
+					<h3>{{ post.title }}</h3>
+					<p>{{ post.description }}</p>
+					<a href="{{ post.source }}" class="btn btn-default">Preview &amp; Download</a>
+				</div>
+			</div>
+		</div>	  
+		{% endfor %}
+	</div>
+</div>
