@@ -7,4 +7,4 @@ description: Marketing Agency Website
 template: "Agency"
 ---
 
-<img src="http://sbootstrap.layoutschoolc.netdna-cdn.com/assets/img/showcase/unimo.jpg" class="img-responsive" alt="Marketing Agency Website">
+<img src="http://sbootstrap.BootstrapBasec.netdna-cdn.com/assets/img/showcase/unimo.jpg" class="img-responsive" alt="Marketing Agency Website">

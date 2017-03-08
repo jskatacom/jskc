@@ -6,4 +6,4 @@ categories: template blogs unstyled
 description: A blog post starter template.
 ---
 
-<img src="http://sbootstrap.layoutschoolc.netdna-cdn.com/assets/img/templates/blog-post.jpg" class="img-responsive" alt="Free Bootstrap Blog Post Template">
+<img src="http://sbootstrap.BootstrapBasec.netdna-cdn.com/assets/img/templates/blog-post.jpg" class="img-responsive" alt="Free Bootstrap Blog Post Template">

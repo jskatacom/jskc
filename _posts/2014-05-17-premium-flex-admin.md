@@ -1,10 +1,10 @@
 ---
 title: "Flex Admin"
 slug: flex-admin
-source: http://wrapbootstrap.com/preview/WB032SCB1?ref=layoutschool
-purchase-link: "https://wrapbootstrap.com/theme/flex-admin-responsive-admin-template-WB032SCB1?ref=layoutschool"
+source: http://wrapbootstrap.com/preview/WB032SCB1?ref=BootstrapBase
+purchase-link: "https://wrapbootstrap.com/theme/flex-admin-responsive-admin-template-WB032SCB1?ref=BootstrapBase"
 categories: premium
 description: Responsive Admin Template
 ---
 
-<img src="http://sbootstrap.layoutschoolc.netdna-cdn.com/assets/img/premium/flex-admin.jpg" class="img-responsive" alt="Flex Admin - Bootstrap Admin Theme">
+<img src="http://sbootstrap.BootstrapBasec.netdna-cdn.com/assets/img/premium/flex-admin.jpg" class="img-responsive" alt="Flex Admin - Bootstrap Admin Theme">

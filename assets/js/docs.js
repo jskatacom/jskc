@@ -3,7 +3,7 @@
  * Copyright 2011-2014 Twitter, Inc.
  * Licensed under the Creative Commons Attribution 3.0 Unported License. For
  * details, see http://creativecommons.org/licenses/by/3.0/.
- * Used for the Start Bootstrap Resources Page Menu Bar (http://layoutschool.com/bootstrap-resources/).
+ * Used for the BootstrapBase Resources Page Menu Bar (http://BootstrapBase.com/bootstrap-resources/).
  */
 ! function(a) {
     a(function() {

@@ -1,6 +1,6 @@
 # Site Settings
 baseurl: ""
-url: http://layoutschool.com
+url: http://bootstrapbase.com
 encoding: UTF-8
 
 # Build Settings
@@ -10,8 +10,8 @@ permalink: pretty
 # Site Details
 license: ""
 license-url: ""
-author: "LayoutSchool"
+author: "BootstrapBase"
 
-# Jekyll Redirect From Plugin for Redirects from Start Bootstrap Old Version
+# Jekyll Redirect From Plugin for Redirects from BootstrapBase Old Version
 gems:
   - jekyll-redirect-from

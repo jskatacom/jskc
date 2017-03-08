@@ -6,4 +6,4 @@ categories: template full-websites landing-pages popular
 description: A fully developed business website.
 ---
 
-<img src="http://sbootstrap.layoutschoolc.netdna-cdn.com/assets/img/templates/business-casual.jpg" class="img-responsive" alt="Free Bootstrap 3 Website Themes">
+<img src="http://sbootstrap.BootstrapBasec.netdna-cdn.com/assets/img/templates/business-casual.jpg" class="img-responsive" alt="Free Bootstrap 3 Website Themes">

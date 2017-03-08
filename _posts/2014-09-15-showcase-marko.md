@@ -7,4 +7,4 @@ description: Personal Portfolio Website
 template: "Scrolling Nav"
 ---
 
-<img src="http://sbootstrap.layoutschoolc.netdna-cdn.com/assets/img/showcase/marko.jpg" class="img-responsive" alt="Engineering Portfolio Website">
+<img src="http://sbootstrap.BootstrapBasec.netdna-cdn.com/assets/img/showcase/marko.jpg" class="img-responsive" alt="Engineering Portfolio Website">

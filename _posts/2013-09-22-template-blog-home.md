@@ -6,4 +6,4 @@ categories: template blogs unstyled
 description: A blog home page template.
 ---
 
-<img src="http://sbootstrap.layoutschoolc.netdna-cdn.com/assets/img/templates/blog-home.jpg" class="img-responsive" alt="Free Bootstrap Blog Template">
+<img src="http://sbootstrap.BootstrapBasec.netdna-cdn.com/assets/img/templates/blog-home.jpg" class="img-responsive" alt="Free Bootstrap Blog Template">

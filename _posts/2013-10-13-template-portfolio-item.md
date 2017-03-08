@@ -6,4 +6,4 @@ categories: template portfolios unstyled
 description: A portfolio item page template.
 ---
 
-<img src="http://sbootstrap.layoutschoolc.netdna-cdn.com/assets/img/templates/portfolio-item.jpg" class="img-responsive" alt="Free Bootstrap 3 Portfolio Template">
+<img src="http://sbootstrap.BootstrapBasec.netdna-cdn.com/assets/img/templates/portfolio-item.jpg" class="img-responsive" alt="Free Bootstrap 3 Portfolio Template">

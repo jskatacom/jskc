@@ -6,4 +6,4 @@ categories: template landing-pages one-page portfolios popular
 description: A stylish Bootstrap portfolio theme.
 ---
 
-<img src="http://sbootstrap.layoutschoolc.netdna-cdn.com/assets/img/templates/stylish-portfolio.jpg" class="img-responsive" alt="Free Bootstrap Portfolio Theme - Stylish Portfolio">
+<img src="http://sbootstrap.BootstrapBasec.netdna-cdn.com/assets/img/templates/stylish-portfolio.jpg" class="img-responsive" alt="Free Bootstrap Portfolio Theme - Stylish Portfolio">

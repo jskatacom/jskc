@@ -6,4 +6,4 @@ categories: template landing-pages unstyled
 description: A simple business Bootstrap template.
 ---
 
-<img src="http://sbootstrap.layoutschoolc.netdna-cdn.com/assets/img/templates/small-business.jpg" class="img-responsive" alt="Free Small Business Template for Bootstrap 3">
+<img src="http://sbootstrap.BootstrapBasec.netdna-cdn.com/assets/img/templates/small-business.jpg" class="img-responsive" alt="Free Small Business Template for Bootstrap 3">

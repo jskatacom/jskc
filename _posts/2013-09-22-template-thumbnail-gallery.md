@@ -6,4 +6,4 @@ categories: template unstyled
 description: A simple image gallery template.
 ---
 
-<img src="http://sbootstrap.layoutschoolc.netdna-cdn.com/assets/img/templates/thumbnail-gallery.jpg" class="img-responsive" alt="Bootstrap Image Gallery Template">
+<img src="http://sbootstrap.BootstrapBasec.netdna-cdn.com/assets/img/templates/thumbnail-gallery.jpg" class="img-responsive" alt="Bootstrap Image Gallery Template">

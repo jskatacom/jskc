@@ -6,4 +6,4 @@ categories: template unstyled
 description: A Bootstrap about page template.
 ---
 
-<img src="http://sbootstrap.layoutschoolc.netdna-cdn.com/assets/img/templates/round-about.jpg" class="img-responsive" alt="Free Bootstrap About Page Template">
+<img src="http://sbootstrap.BootstrapBasec.netdna-cdn.com/assets/img/templates/round-about.jpg" class="img-responsive" alt="Free Bootstrap About Page Template">

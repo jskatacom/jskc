@@ -7,4 +7,4 @@ description: Personal Blog
 template: "Clean Blog"
 ---
 
-<img src="http://sbootstrap.layoutschoolc.netdna-cdn.com/assets/img/showcase/union.jpg" class="img-responsive" alt="Bootstrap Blog Website">
+<img src="http://sbootstrap.BootstrapBasec.netdna-cdn.com/assets/img/showcase/union.jpg" class="img-responsive" alt="Bootstrap Blog Website">
