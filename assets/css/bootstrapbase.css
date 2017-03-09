@@ -59,9 +59,10 @@ header.marquee {
 
 header.marquee .brand-name {
     display: block;
-    font-size: 50px;
+    font-size: 30px;
     line-height: 1
 }
+
 
 header.marquee h1 {
     font-size: 24px;
@@ -100,9 +101,6 @@ header.marquee .btn-cta:hover {
 }
 
 @media (min-width:768px) {
-    header.marquee {
-        padding: 150px 0
-    }
     header.marquee .brand-name {
         font-size: 80px
     }
